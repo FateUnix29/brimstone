@@ -6,11 +6,11 @@ A brand new, CLI-based mod manager for Brick Rigs, and possibly beyond.
 
 Be more specific! What is this?
 -------------------------------
-Brimstone is a nickname for Brick Rigs Instance Manager, abbreviated as ``BRIM``. The mission is to create a fast, open source, easy-to-use CLI mod manager with an API.
-This also allows for future GUI adaptations.
-
-It allows you to install, remove, swap around, mods and modpacks for the supported games.
-(As you could guess by the name of the project, currently only Brick Rigs!)
+| Brimstone is a nickname for Brick Rigs Instance Manager, abbreviated as ``BRIM``. The mission is to create a fast, open source, easy-to-use CLI mod manager with an API.
+| This also allows for future GUI adaptations.
+|
+| It allows you to install, remove, swap around, mods and modpacks for the supported games.
+| (As you could guess by the name of the project, currently only Brick Rigs!)
 
 Okay, that sounds neat, what can it do?
 ---------------------------------------
@@ -35,13 +35,13 @@ Certainly! Some of those would have to be:
 
 Who's behind this?
 ------------------
-Hi! I'm Kite. I'm the guy that started this, and currently the sole maintainer of the project.
-I am known as `FateUnix29`_ on GitHub, or otherwise Copper. I do have a Discord, @kitethelunatic.
+| Hi! I'm Kite. I'm the guy that started this, and currently the sole maintainer of the project.
+| I am known as `FateUnix29`_ on GitHub, or otherwise Copper. I do have a Discord, @kitethelunatic.
 
 Okay, okay. Let's skip to the important stuff. Installation steps, please?
 --------------------------------------------------------------------------
-Completely, 100%, nonexistent! 🎉
-(Don't worry, they'll appear once Brimstone is in a working order.)
+| Completely, 100%, nonexistent! 🎉
+| (Don't worry, they'll appear once Brimstone is in a working order.)
 
 What was the inspiration?
 -------------------------
